@@ -189,3 +189,4 @@
   50% { transform: translateY(-12px); }
 }
 .animate-float { animation: float-slow 6s ease-in-out infinite; }
+html { scroll-behavior: smooth; }
